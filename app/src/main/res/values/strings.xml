@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">PastebinVPN</string>
+    <string name="atom_secret_key">8f05014ec4a0413a944c8b753c679f84eb588fa0</string>
+
+    <string name="web_url">www.pastebin.com</string>
+    <string name="pastebinvpn">PastebinVPN</string>
+    <string name="about_title">About PastebinVPN</string>
+    <string name="about_detail">At Pastebin, ingenuity is engrained throughout our product development cycle. We believe in complete online freedom, along with impenetrable security for our users.</string>
+
+    <string name="tcp">TCP</string>
+    <string name="both">Both</string>
+    <string name="both_desc">We will use best and available.</string>
+    <string name="tcp_desc">Choose this for a secure &amp; reliable connection</string>
+    <string name="udp">UDP</string>
+    <string name="udp_desc">Choose this for speed &amp; security</string>
+
+    <string name="search">Search</string>
+    <string name="split_tunneling">Split Tunneling</string>
+    <string name="split_tunneling_on">Turn ON Split Tunneling</string>
+    <string name="split_tunnel_des">Using Pastebin, Split Tunneling feature, a user can route the traffic coming from a specific application through a VPN tunnel. The rest of the application will remain unaffected by the VPN.</string>
+    <string name="split_tunneling_vpn_used_for">VPN is used for selected apps</string>
+
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_now">LOGIN NOW</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="username_error">Please enter username</string>
+    <string name="password_error">Please enter password</string>
+    <string name="remember_me">Remember me</string>
+
+    <string name="app_version">APP VERSION</string>
+    <string name="logout">Logout</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="disconnect_logout_confirmation">You are connected to the CensorStop. Do you want to Disconnect and logout ?</string>
+    <string name="logout_confirmation">Are you sure you want to logout?</string>
+    <string name="not_secure">NOT SECURE</string>
+    <string name="secure">YOU\'RE NOW SECURE</string>
+    <string name="connect_to">Connect to</string>
+    <string name="connecting_to">Connecting to</string>
+    <string name="connected_to">Connected to</string>
+
+    <string name="united_state">United States</string>
+    <string name="united_kingdom">United Kingdom</string>
+    <string name="canada">Canada</string>
+
+
+    <string name="no_internet">No Internet Connection</string>
+    <string name="choose_country">Please choose a country.</string>
+    <string name="disconnected">Disconnected</string>
+</resources>

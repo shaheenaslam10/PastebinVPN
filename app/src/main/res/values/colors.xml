@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="app_color_dark">#03446c</color>
+    <color name="app_color_light">#02507e</color>
+    <color name="drawer_back">#023256</color>
+
+    <color name="gray_light">#c4c4c4</color>
+
+    <color name="text_color">#575757</color>
+    <color name="gray_mid">#c5c5c5</color>
+    <color name="gray_dim">#f4f4f4</color>
+    <color name="sky_blur">#6ab4d9</color>
+    <color name="sky_ligh">#9fd0ee</color>
+    <color name="orange">#fbd536</color>
+
+
+</resources>

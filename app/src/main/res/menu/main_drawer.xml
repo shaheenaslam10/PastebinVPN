@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+        <item
+            android:id="@+id/split_tunnel"
+            android:icon="@drawable/split_arrows"
+            android:title="@string/split_tunneling" />
+
+        <item
+            android:id="@+id/protocol"
+            android:icon="@drawable/protocol"
+            android:title="@string/protocol" />
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/drawer_logo"
+            android:title="@string/about" />
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout"
+            android:title="@string/logout" />
+
+</menu>
